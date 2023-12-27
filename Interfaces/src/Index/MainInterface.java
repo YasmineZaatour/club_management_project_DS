@@ -21,12 +21,12 @@ public class MainInterface {
         panel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
         panel.setBackground(Color.WHITE);
 
-        JLabel title = new JLabel("Welcome to the Club Managing System");
+        JLabel title = new JLabel("    Welcome to the Club Managing System");
         title.setFont(new Font("Arial", Font.BOLD, 18));
         title.setAlignmentX(Component.CENTER_ALIGNMENT);
         title.setForeground(Color.decode("#333333"));
 
-        JLabel authors = new JLabel("By : Firas Kahlaoui & Yasmine Zaatour  : 2 BD 1");
+        JLabel authors = new JLabel("    By : Firas Kahlaoui & Yasmine Zaatour  : 2 BD 1");
         authors.setFont(new Font("Arial", Font.BOLD, 14));
         authors.setAlignmentX(Component.CENTER_ALIGNMENT);
         authors.setForeground(Color.decode("#333333"));
