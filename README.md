@@ -1,7 +1,7 @@
 # Club Managing System
 
 The Club Management System is a Java-based application that allows both administrators and users to efficiently manage club memberships and user accounts.
-              <img width="60%" alt="Main_Interface" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/welcomePage.png">
+              <img width="60%" alt="Main_Interface" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/welcomePage.png" align="center">
               
 ### Admin Dashboard
 
