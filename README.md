@@ -77,7 +77,7 @@ The Club Management System is a Java-based application that allows both administ
 - **Password Management:**
   - Users can change their passwords for added security.
     
-    <p align ="center"> <img alt="Change Password" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/User/changePass.png" width="60%"></p>
+    <p align ="center"> <img alt="Change Password" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/User/changePass.png" width="50%"></p>
 
 - **Delete Account:**
   - Users can delete their user account.
