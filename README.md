@@ -14,7 +14,7 @@ The Club Management System is a Java-based application that allows both administ
 - **User Management:**
   - Add a new user to the database.
   
-  <img alt="Add New User" src="https://github.com/YasmineZaatour/club_management_project_DS/Assets/Admin/addUser.png" width="100%">
+  <img alt="Add New User" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/addUser.png" width="100%">
 
   - View user data.
     <img alt="View User Data 1" src="https://github.com/YasmineZaatour/club_management_project_DS/Assets/Admin/showUserInfo.png" width="100%">
