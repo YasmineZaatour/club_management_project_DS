@@ -13,6 +13,9 @@ The Club Management System is a Java-based application that allows both administ
 <p align ="center"> 
   <img alt="Admin Login" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/adminLogin.png" width="60%" align="center"></p>  
 
+<p align ="center"> 
+  <img alt="Admin SignUp" src="https://github.com/YasmineZaatour/club_management_project_DS/assets/117782662/0cbbf94c-9042-4a7b-83bc-e8acd569b5b7" width="60%" align="center"></p>  
+ 
 - **Admin Dashboard:**
 <p align ="center"> 
   <img alt="Admin Dashboard" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/adminDash.png" width="60%"align="center"></p>
@@ -51,6 +54,9 @@ The Club Management System is a Java-based application that allows both administ
   - New users can sign up, while existing users can log in to access their dashboards.
 <p align ="center"><img alt="User Login" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/User/userLogin.png" width="60%"> </p>
 
+<p align ="center"><img alt="User SignUp" src="https://github.com/YasmineZaatour/club_management_project_DS/assets/117782662/962ded35-7ceb-4845-9652-28b92d379cce" width="60%"> </p>
+
+- **User Dashboard:**
 <p align ="center"><img alt="User Dashboard" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/User/userDash.png" width="60%"> </p>
 
 - **User Account Info:**
