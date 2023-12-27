@@ -1,15 +1,16 @@
 # Club Managing System
 
 The Club Management System is a Java-based application that allows both administrators and users to efficiently manage club memberships and user accounts.
-              <img width="60%" alt="Main_Interface" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/welcomePage.png" align="center">
+
+<img width="60%" alt="Main_Interface" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/welcomePage.png" align="center">
               
 ### Admin Dashboard
 
 - **Sign Up and Login:**
   - Administrators can sign up and log in to the admin dashboard.
     
-<img alt="Admin Login" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/adminLogin.png" width="60%">
-<img alt="Admin Dashboard" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/adminDash.png" width="60%">
+<img alt="Admin Login" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/adminLogin.png" width="60%" align="center">
+<img alt="Admin Dashboard" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/adminDash.png" width="60%"align="center">
 
 - **User Management:**
   - Add a new user to the database.
