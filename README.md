@@ -13,6 +13,7 @@ The Club Management System is a Java-based application that allows both administ
 <p align ="center"> 
   <img alt="Admin Login" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/adminLogin.png" width="60%" align="center"></p>  
 
+- **Admin Dashboard:**
 <p align ="center"> 
   <img alt="Admin Dashboard" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/Admin/adminDash.png" width="60%"align="center"></p>
   
