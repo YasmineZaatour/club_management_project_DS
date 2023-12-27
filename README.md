@@ -82,6 +82,6 @@ The Club Management System is a Java-based application that allows both administ
 - **Delete Account:**
   - Users can delete their user account.
     
-    <p align ="center"> <img alt="Delete User Account" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/User/deleteUser.png" width="40%"></p>
+    <p align ="center"> <img alt="Delete User Account" src="https://github.com/YasmineZaatour/club_management_project_DS/blob/master/Assets/User/deleteUser.png" width="60%"></p>
   
 
